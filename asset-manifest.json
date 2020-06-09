@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-action-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/git-action-test/static/js/main.42a8f17e.chunk.js",
+    "main.js.map": "/git-action-test/static/js/main.42a8f17e.chunk.js.map",
+    "runtime-main.js": "/git-action-test/static/js/runtime-main.eb14d0eb.js",
+    "runtime-main.js.map": "/git-action-test/static/js/runtime-main.eb14d0eb.js.map",
+    "static/js/2.2e9600cf.chunk.js": "/git-action-test/static/js/2.2e9600cf.chunk.js",
+    "static/js/2.2e9600cf.chunk.js.map": "/git-action-test/static/js/2.2e9600cf.chunk.js.map",
+    "index.html": "/git-action-test/index.html",
+    "precache-manifest.ad72ac2ca40e2e6e9bcfe2edddcdae35.js": "/git-action-test/precache-manifest.ad72ac2ca40e2e6e9bcfe2edddcdae35.js",
+    "service-worker.js": "/git-action-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/git-action-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e9600cf.chunk.js.LICENSE.txt": "/git-action-test/static/js/2.2e9600cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/git-action-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb14d0eb.js",
+    "static/js/2.2e9600cf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.42a8f17e.chunk.js"
+  ]
+}
